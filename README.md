@@ -68,5 +68,5 @@ Clone the repository, open the Jupyter notebook in `notebooks/`, and run the cel
 
 ```bash
 git clone https://github.com/your-username/weather-eda-hypothesis-testing.git
-cd weather-eda-hypothesis-testing
+cd la-weather-statistical-analysis
 jupyter notebook
