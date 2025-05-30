@@ -67,6 +67,6 @@ This project demonstrates how visual and statistical analysis can work together 
 Clone the repository, open the Jupyter notebook in `notebooks/`, and run the cells to explore the data and replicate the analysis.
 
 ```bash
-git clone https://github.com/your-username/weather-eda-hypothesis-testing.git
+git clone https://github.com/suzaladhikari/la-weather-statistical-analysis.git
 cd la-weather-statistical-analysis
 jupyter notebook
